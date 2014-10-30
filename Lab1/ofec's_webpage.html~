@@ -1,0 +1,29 @@
+
+<!doctype html>
+<html>
+    <head>
+<title> Ofec is better than Carmel </title>
+    </head>
+    <body>
+<h1>Why Ofec is better than Carmel </h1>
+<img src="ofec1.jpg" width=67 height=87><table>
+    <tr> 
+        <td> <a href=”http://URL”>First empty link</a> </td>
+    </tr>
+    <tr>
+	<td> <a href="http://URL">Second empty link</a> </td>
+    </tr>
+    <tr>
+	<td> <a href="http://URL">Third empty link</a> </td>
+    </tr>
+</table>
+<p>For a page about me<a href="about.html">Click Here</a> </p>
+<h3>Enter what you want to send to me</h3>
+<form action=”URL_which_I_will_send_the_form_to” method=”POST”>
+  <input type=”submit”>
+</form>
+
+
+    </body>
+</html>
+
